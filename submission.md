@@ -3,9 +3,6 @@
 **Mã học viên:** 2A202600208
 **Date:** 24/04/2026
 **Product idea:** Trợ lý AI định vị tri thức đa phương thức trong video bài giảng, giúp sinh viên tìm kiếm kiến thức bằng ngôn ngữ tự nhiên và nhận được Visual Citation kèm timestamp chính xác.
-
-**Link to Day 16 Package:** *(Nếu có, paste link GitHub Day 16 ở đây để thể hiện story consistency)*
-
 ---
 
 ## 0. Tại sao mỗi tính năng In-Scope không thể cắt thêm
